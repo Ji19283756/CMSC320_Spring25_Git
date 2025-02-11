@@ -10,3 +10,7 @@ Answer: You can apply data science to business. For example, when you're trying 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines changes from different branches while rebasing replays changes from one branch onto another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to completing new and exciting projects!
